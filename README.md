@@ -10,7 +10,7 @@ Twitter app for Android Wear
 ## Install
 ---
 
-Download the APK package from [Google Play](https://play.google.com/store/apps/details?id=jp.gr.java_conf.ya.shiobeforandroid2) or [github](https://github.com/YA-androidapp/ShiobeForAndroidWear/blob/master/app/app-release.apk?raw=true)
+Download the APK package from [Google Play](https://play.google.com/store/apps/details?id=jp.gr.java_conf.ya.shiobeforandroid2) or github ( [handheld](https://github.com/YA-androidapp/ShiobeForAndroid/blob/master/ShiobeForAndroid.apk?raw=true) and [Wear](https://github.com/YA-androidapp/ShiobeForAndroidWear/blob/master/app/app-release.apk?raw=true); This Wear app cannot be used alone. )
 
 ## Libraries
 ---
